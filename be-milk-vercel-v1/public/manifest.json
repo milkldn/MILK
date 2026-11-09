@@ -1,0 +1,9 @@
+{
+  "name": "Bé Milk - Nhật ký chăm ngoan",
+  "short_name": "Bé Milk",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fff5f9",
+  "theme_color": "#ff4f9a",
+  "icons": []
+}
